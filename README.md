@@ -27,7 +27,7 @@ The database comprises **15 interconnected tables** organized into core operatio
 
 ### Entity Relationship Diagram (ERD)
 The full relational layout, foreign key dependencies, and entity associations are detailed in the visual ER diagram included in this repository:
-![E-Commerce ER Diagram](./ER_diagram.png)
+https://github.com/Maheen-Sheikh2005/CommercePulse-Database-Architecture/blob/main/ER%20Diagram.pdf
 
 
 
